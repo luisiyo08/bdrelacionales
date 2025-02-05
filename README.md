@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relaciónales 
+# Luis Mario Carrillo Vega
+4AVP
